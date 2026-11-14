@@ -1,3 +1,8 @@
 {
-  "mods": {}
+  "mods": {
+    "button_packs": {
+      "tag": "button_packs-v1",
+      "file": "button_packs-v1.zip"
+    }
+  }
 }
